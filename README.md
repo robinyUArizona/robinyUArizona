@@ -15,9 +15,6 @@ and research assistant roles.
 
 [![Linkedin Badge](https://img.shields.io/badge/-robinyuarizona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinyuarizona/)](https://www.linkedin.com/in/robinyuarizona/)
 
-
-<br />
-
 <!---
 ### Languages and Tools:
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
