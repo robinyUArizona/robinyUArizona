@@ -2,8 +2,7 @@
 
 ## I'm a Aspiring Data Scientist and Machine Learning Engineer!
 
-[![Linkedin Badge](https://img.shields.io/badge/-robinyuarizona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinyuarizona/]
-(https://www.linkedin.com/in/robinyuarizona/)
+[![Linkedin Badge](https://img.shields.io/badge/-robinyuarizona-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robinyuarizona/)](https://www.linkedin.com/in/robinyuarizona/)
 
 
 - 🔭 I’m currently looking for full-time Data Scientist or Machine Learning position.
