@@ -1,6 +1,6 @@
 ### Hi there, I'm Robin 👋
 
-## I'm a Aspiring Data Scientist and Machine Learning Engineer!
+## I'm a Aspiring Data Scientist & Machine Learning Engineer!
 
 
 - 🔭 I’m currently looking for full-time Data Scientist/Machine Learning position.
