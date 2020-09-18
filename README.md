@@ -21,11 +21,7 @@ and research assistant roles.
 ### Languages and Tools:
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 [![R](https://img.shields.io/static/v1?label=&message=R&color=3C78A9&logo=R&logoColor=FFFFFF)](https://www.r-project.org/)
-[![Pyspark](https://img.shields.io/static/v1?label=&message=R&color=3C78A9&logo=Pyspark&logoColor=FFFFFF)](https://spark.apache.org/)
 
-
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 
 
 <!--- 
