@@ -1,4 +1,4 @@
-### Hi there, I'm Robin 👋
+### Hi there, I'm Robin and I am an PhD student 👋
 
 ## I'm a Aspiring Data Scientist & Machine Learning Engineer!
 
