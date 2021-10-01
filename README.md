@@ -8,7 +8,7 @@
 - 🌱 I am passionate about turning complex data into actionable insights, providing a data-based decision.
 - 👯 I have acquired a professional world experiences from my internships, teaching assistant,
 and research assistant roles.
-- ⚡ Fun fact: I love music, travelling and play cricket
+- ⚡ Fun fact: I love music, travelling and playing cricket
 
 
 ### Connect with me:
