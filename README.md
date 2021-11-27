@@ -1,7 +1,7 @@
 ## Hi there, I am an PhD student at Arizona State University majoring in Data Science, Analytics and Engineering
 
 
-- 🔭 I’m currently looking for full-time Data Scientist/Machine Learning position.
+- 🔭 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 🥅 My interests are in Statistics, Data Science, Machine Learning, and Electrical Engineering.
 - 🌱 I am passionate about turning complex data into actionable insights, providing a data-based decision.
 - 👯 I have acquired a professional world experiences from my internships, teaching assistant,
