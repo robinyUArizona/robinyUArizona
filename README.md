@@ -1,4 +1,4 @@
-### Hi there, I'm Robin and I am an PhD student
+# Hi there, I'm Robin and I am an PhD student at Arizona State University majoring in Data Science, Analytics and Engineering
 
 ## I'm a Aspiring Data Scientist & Machine Learning Engineer!
 
