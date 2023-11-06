@@ -1,10 +1,9 @@
 ## Professional with a solid background in Data Science, Machine Learning, and Statistics, as well as Software Engineering experience, who is results-oriented and adaptive. 
 
-- 🔭 I’m currently looking for Data Scientist/Machine Learning Engineering.
+- 🔭 I’m currently looking for Data Scientist/Machine Learning Engineering positions.
 - 🥅 My interests are in Statistics, Data Science, Machine Learning, and Software Engineering.
 - 🌱 I am passionate about turning complex data into actionable insights and providing data-based decisions.
-- 👯 I have acquired professional world experiences from my internships, teaching assistant,
-and research assistant, software engineering roles.
+- 👯 I have acquired professional world experiences from roles like internship, teaching assistant, research assistant, and software engineering role.
 - ⚡ Fun fact: I love music, traveling, and playing cricket
 
 
