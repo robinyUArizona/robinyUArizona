@@ -1,4 +1,4 @@
-## Professional with a solid background in Data Science, Machine Learning, and Statistics, as well as Software Engineering experience, who is results-oriented and adaptive. 
+### Professional with a solid background in Data Science, Machine Learning, and Statistics, as well as Software Engineering experience, who is results-oriented and adaptive.  Extremely passionate about transforming complex data into actionable insights, making data-driven decisions, and combining old concepts in novel ways to provide creative, straightforward answers to complicated, vague problem statements. 
 
 - 🔭 I’m currently looking for Data Scientist/Machine Learning Engineering positions.
 - 🥅 My interests are in Statistics, Data Science, Machine Learning, and Software Engineering.
