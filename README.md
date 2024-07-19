@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for Data Scientist/Machine Learning Engineering positions.
 - 🥅 My interests are in Statistics, Data Science, Machine Learning, and Software Engineering.
 - 🌱 I am passionate about turning complex data into actionable insights and providing data-based decisions.
-- 👯 I have acquired professional world experiences from roles like internship, teaching assistant, research assistant, and software engineering role.
+- 👯 I gained valuable experience working as a Graduate Researcher in the Data Science and Machine Learning domain during my graduate school at University of Arizona and Arizona State University. Following that, I also worked as a Software Engineer (Python Developer) at a U.S.-based company from 2022 to 2024.
 - ⚡ Fun fact: I love music, traveling, and playing cricket
 
 
