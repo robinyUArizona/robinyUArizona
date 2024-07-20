@@ -3,7 +3,7 @@
 - 🔭 I’m currently seeking Data Scientist or Machine Learning Engineer positions.
 - 🌱 I am passionate about transforming complex data into actionable insights and facilitating data-driven decision-making.
 - 🥅 I gained valuable experience as a Graduate Researcher in the Data Science and Machine Learning domain during my graduate studies at the University of Arizona and Arizona State University. I also worked as a Software Engineer (Python Developer) at a U.S.-based company from 2022 to 2024.
--  Fun fact: I love music, traveling, and playing cricket.
+- ⚡ Fun fact: I love music, traveling, and playing cricket.
 
 
 ### Connect with me:
