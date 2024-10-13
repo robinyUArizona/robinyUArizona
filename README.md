@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm a data professional with over 4 years of exper
 
 ## 🔧 Technologies & Tools
 - **Languages**: Python, R, SQL
-- **Cloud**: AWS (S3, EC2, RDS, Lambda)
+- **Cloud**: AWS (S3, EC2, RDS, Lambda, SageMaker), Microsoft Azure, Databricks
 - **Big Data**: Hadoop, Spark (PySpark)
 - **Machine Learning**: Scikit-learn, TensorFlow, PyTorch, XGBoost
-- **NLP & LLM**: NLTK, Spacy, Hugging Face
+- **NLP & LLM**: NLTK, Spacy, Hugging Face, Transformer, BERT, OpenAI, Langchain, RAG
 - **Databases**: PostgreSQL, NoSQL (MongoDB, DocumentDB)
 - **MLOps**: Docker, GitHub Actions, MLflow
 - **Web Frameworks**: Flask, FastAPI
