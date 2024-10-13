@@ -26,7 +26,8 @@ Welcome to my GitHub profile! I'm a data professional with over 4 years of exper
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-robinyuarizona-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robinyuarizona)
-[![Portfolio](https://img.shields.io/badge/Portfolio-robinyuarizona-orange?style=for-the-badge)](https://your-portfolio.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-robinyuarizona-orange?style=for-the-badge)]([https://your-portfolio.com](https://www.datascienceportfol.io/robinyuarizona))
 ---
 
 “Turning data into insights, one model at a time.”
