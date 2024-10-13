@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a data professional with over 4 years of exper
 
 ## 🚀 About Me
 - 🔭 **Currently Seeking**: Data Scientist or Machine Learning Engineer positions.
-- 🎓 **Education**: Master's in Data Science & Machine Learning.
 - 💼 **Experience**: Proficient in **Python, SQL, AWS**, and **big data** technologies, with expertise in **healthcare analytics**, **NLP**, and **Large Language Models (LLM)**.
 - ⚙️ **MLOps Skills**: Skilled in deploying scalable machine learning solutions and managing the entire data science lifecycle.
 - 🌱 **Passion**: I thrive on transforming data into powerful insights, helping organizations make data-driven decisions.
