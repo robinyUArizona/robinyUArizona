@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Robins! 
 
-Welcome to my GitHub profile! I'm a data professional with over 4 years of experience, specializing in **Data Science, Machine Learning, and Statistics**, with a solid foundation in **Software Engineering**. My passion lies in transforming complex data into actionable insights and developing scalable machine learning solutions.
+Welcome to my GitHub profile!
+I'm an AI & Machine Learning Engineer with over 4 years of experience specializing in Data Science, Machine Learning, and Statistical Modeling, supported by a strong foundation in Software Engineering. I’m passionate about transforming complex data into actionable insights and building scalable, production‑ready machine learning solutions.
 
 ## 🚀 About Me
 - 💼 **Experience**: Proficient in **Python, SQL, AWS**, and **big data** technologies, with expertise in **Oil & Gas**, **Healthcare Analytics**, **NLP**, and **Large Language Models (LLM)**.
